@@ -4,3 +4,4 @@ echo "Hello World"
 python('Hello World')
 #= python script
 
+print("Hello world")
