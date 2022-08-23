@@ -1,4 +1,8 @@
 # print("Hello World")
 deploy in the dev environment
+<<<<<<< HEAD
 deveployment5 master
 
+=======
+deployment4
+>>>>>>> dev
